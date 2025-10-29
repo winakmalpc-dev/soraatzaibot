@@ -1,7 +1,0 @@
-services:
-  - type: worker
-    name: sora-history-bot
-    env: python
-    buildCommand: ""
-    startCommand: python app.py
-    autoDeploy: true
